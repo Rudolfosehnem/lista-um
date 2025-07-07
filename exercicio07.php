@@ -6,7 +6,7 @@
 </head>
 <body>
     <form method="POST" action="">
-        <label for="verificar_divisores">Digite um número para verificar seu divisor:</label>
+        <label for="verificar_divisores"> Verificar se o número é perfeito:</label>
         <input type="number" name="numero_divisor" id="numero_divisor" required>
         <button type="submit" name="verificar_divisor">Verificar</button>
     </form>
