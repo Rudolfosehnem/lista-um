@@ -12,7 +12,7 @@
         <label for="numero_par">Verifica se é um número par ou impar:</label>
         <input type="number" id="numero_par" name="numero_par" required>
         <button type="submit" name="verificar_imparPar">Verificar</button>
-    </form>
+    </form> 
 
     <?php
 
