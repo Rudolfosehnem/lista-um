@@ -26,6 +26,7 @@
             $numero2 = $_POST['numero2'];
         };
         if(($numero1) && ($numero2)){
+            $soma = 0;
             $soma = $numero1 + $numero2;
             echo "<p> A soma dos números entre $numero1 e $numero2 é: $soma</p>";
         }
